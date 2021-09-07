@@ -1,5 +1,3 @@
 ---
-roles:
-  - name: juniper.junos
-    src: https://github.com/cremsburg/ansible-junos-stdlib.git
-    version: roles
+collections:
+  - cremsburg.sdcloud
