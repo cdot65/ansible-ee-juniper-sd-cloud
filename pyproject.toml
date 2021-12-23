@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ansible-ee-juniper-junos"
+name = "ansible-ee-security-director-cloud"
 version = "0.1.0"
 description = ""
 authors = ["Calvin Remsburg <cremsburg@protonmail.com>"]
